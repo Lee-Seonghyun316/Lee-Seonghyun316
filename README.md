@@ -1,12 +1,12 @@
-[GitHub followers](https://img.shields.io/github/followers/Lee-Seonghyun?style=social)
- 
- Hi 👋 My name is SeongHyun Lee.   
+LeeSeongHyun/Erica 😊💕  
+Portfolio : https://seonghyun-portfolio.vercel.app/
 
 ### 📂 Projects
-|            |          Date          |   Repository   |        Languages, etc.        |
-|------------|:----------------------:|:--------------:|:-----------------------------:|
-|    Team    |    2021.1.1 ~ now      |    switi-app   |     react-native, typescript  |
-| Individual |    2021.5.20 ~ now     |   cookingdom   |      javascript, css, HTML    |
+|            |           Date          |      Repository     |              Languages, etc.             |
+|------------|:-----------------------:|:-------------------:|:----------------------------------------:|
+|    Team    | 2021.01.01 ~ 2021.12.31 |      switi-app      |       react-native, typescript, redux    |
+|   Company  | 2021.07.01 ~ 2021.12.31 |  subucket(Private)  |             javascript, css, HTML        |
+|    Team    | 2021.02.01 ~ 2021.04.07 | wanted-codestates.. |  React, Vue, redux-toolkit, RTK-query... |
 
 
 <!--
