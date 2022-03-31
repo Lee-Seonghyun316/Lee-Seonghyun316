@@ -1,5 +1,6 @@
 LeeSeongHyun/Erica 😊💕  
 Portfolio : https://seonghyun-portfolio.vercel.app/
+Email: mn031621019@gmail.com
 
 ### 📂 Projects
 |            |           Date          |      Repository     |              Languages, etc.             |
