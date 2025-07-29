@@ -1,6 +1,7 @@
 LeeSeongHyun/Erica 😊💕  
 - Portfolio : https://2025-profile.vercel.app/
 - Email: mn031621019@gmail.com
+- https://github.com/seongHyun-ridi
 
 ### 📂 Projects
 |            |           Date        |              Languages, etc.              |
