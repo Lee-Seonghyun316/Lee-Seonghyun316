@@ -1,10 +1,9 @@
 LeeSeongHyun/Erica 😊💕  
-- Portfolio : https://seonghyun-portfolio.vercel.app/
+- Portfolio : https://2025-profile.vercel.app/
 - Email: mn031621019@gmail.com
 
 ### 📂 Projects
-|            |           Date          |              Languages, etc.             |
-|------------|:-----------------------:|:----------------------------------------:|
-|  switi-app | 2021.01.01 ~ 2021.12.31 |       react-native, typescript, redux    |
-|  subucket  | 2021.07.01 ~ 2021.12.31 |             javascript, css, HTML        |
-|   Jaranda  | 2022.05.09 ~ in office  |     React, Angular, nextjs, typescript   |
+|            |           Date        |              Languages, etc.              |
+|------------|:---------------------:|:-----------------------------------------:|
+|   jaranda  |   2022.05 ~ 2023.12   | React Native, Angular, nextjs, typescript |
+|    ridi    |   2024.01 ~ in office |   React Native, nextjs, typescript,AWS    |
